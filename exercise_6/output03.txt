@@ -1,0 +1,2 @@
+Figure with max area: Circle, area = 1963.50
+Figure with max perimeter: Circle, perimeter = 157.08
